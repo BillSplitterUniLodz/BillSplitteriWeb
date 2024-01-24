@@ -1,0 +1,29 @@
+.MainPage {
+  height: 100hv;
+}
+.TitleMainPage {
+  display: flex;
+  justify-content: space-between;
+}
+.TitleMainPage {
+  padding: 15px;
+}
+.TitleMainPage i {
+  font-size: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.popUp {
+  border-radius: 20px;
+  z-index: 1;
+  padding: 20px;
+}
+.AssetsGroups {
+  padding: 20px;
+  line-height: 20px;
+}
+.AssetsGroups li{
+  cursor: pointer;
+}

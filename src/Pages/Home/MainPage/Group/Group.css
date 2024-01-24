@@ -1,0 +1,18 @@
+.Group {
+  padding: 20px;
+}
+.AddExp {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 0;
+}
+.AddExp button {
+  height: 20px;
+}
+.Group_expenses {
+  display: flex;
+  justify-content: space-between;
+}
+.Group li {
+  font-size: 50px;
+}
